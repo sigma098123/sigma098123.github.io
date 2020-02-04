@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>派 | Pyker</title>
+  <title>sigma098123的博客</title>
   
-  
+  <subtitle>sigma的私人小站</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://www.ipyker.com/"/>
+  <link href="https://www.sigma098123.com/"/>
   <updated>2020-02-04T07:28:29.892Z</updated>
-  <id>https://www.ipyker.com/</id>
+  <id>https://www.sigma098123.com/</id>
   
   <author>
-    <name>丨Pyker丨</name>
+    <name>sigma</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>第一篇博客</title>
-    <link href="https://www.ipyker.com/2018/11/30/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2.html"/>
-    <id>https://www.ipyker.com/2018/11/30/第一篇博客.html</id>
+    <link href="https://www.sigma098123.com/2018/11/30/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2.html"/>
+    <id>https://www.sigma098123.com/2018/11/30/第一篇博客.html</id>
     <published>2018-11-30T09:30:00.000Z</published>
     <updated>2020-02-04T07:28:29.892Z</updated>
     
@@ -35,18 +35,18 @@
     
     </summary>
     
-      <category term="develop" scheme="https://www.ipyker.com/categories/develop/"/>
+      <category term="develop" scheme="https://www.sigma098123.com/categories/develop/"/>
     
-      <category term="test" scheme="https://www.ipyker.com/categories/develop/test/"/>
+      <category term="test" scheme="https://www.sigma098123.com/categories/develop/test/"/>
     
     
-      <category term="linux" scheme="https://www.ipyker.com/tags/linux/"/>
+      <category term="linux" scheme="https://www.sigma098123.com/tags/linux/"/>
     
-      <category term="os" scheme="https://www.ipyker.com/tags/os/"/>
+      <category term="os" scheme="https://www.sigma098123.com/tags/os/"/>
     
-      <category term="java" scheme="https://www.ipyker.com/tags/java/"/>
+      <category term="java" scheme="https://www.sigma098123.com/tags/java/"/>
     
-      <category term="python" scheme="https://www.ipyker.com/tags/python/"/>
+      <category term="python" scheme="https://www.sigma098123.com/tags/python/"/>
     
   </entry>
   
